@@ -1,0 +1,10 @@
+.VoteCell{
+    background:white;
+    width:100%; 
+    height: 25px;
+}
+.ClickedCell {
+    background-color: rgb(76, 173, 76);
+    width:100%; 
+    height: 25px;
+}

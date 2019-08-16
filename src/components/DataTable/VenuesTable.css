@@ -1,0 +1,18 @@
+ th{
+    background-color:white;
+    border-color:white;
+    margin:1rem 1.5rem;
+}
+table{
+    box-shadow: 3px 3px #dbd7d6;
+    border:0px;
+}
+table .Participants{
+    width: 10rem;
+    font-weight: normal;
+    color:#dbd7d6;
+    text-align: left;
+
+
+    
+}

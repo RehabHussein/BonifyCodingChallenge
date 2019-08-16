@@ -1,0 +1,16 @@
+.Search button {
+border-radius: 15px;
+height: 2rem;
+padding:0.5rem 2.5rem ;
+margin: 0.5rem;
+background-color:#8142f5;
+border-color: #8142f5;
+cursor: pointer;
+}
+.Search input{
+    width: 14rem;
+    height: 1.5rem;
+    min-width: 4rem; 
+
+}
+
