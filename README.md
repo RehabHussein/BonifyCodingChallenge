@@ -13,3 +13,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Extracting the error handling and loading to seperate HOCs , currently for simplification error handling and data loading are done implicit in the App component
 
 
+## To run
+
+On the terminal : `npm install`
+
+Note:
+App secret is currently saved in a client env , in production this is not acceptable for security reasons
